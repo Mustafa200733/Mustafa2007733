@@ -21,7 +21,9 @@ I enjoy turning ideas into interactive digital experiences.
 
 🌐 Connect With Me
 
-Instagram: mustafa146_501
+<a href="https://instagram.com/mustafa146_501" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+</a>Instagram: mustafa146_501
 
 🛠️ Languages and Tools
 
