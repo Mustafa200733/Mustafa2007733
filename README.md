@@ -27,9 +27,10 @@ I enjoy turning ideas into interactive digital experiences.
 
 🛠️ Languages and Tools
 
-<img src="link-naar-logo.png" alt="HTML5"> HTML5
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4fb0dca9-b5b2-4e59-af25-cfb62ba772cd" />
+ HTML
 
-🎨 CSS3
+ CSS
 
 ⚡ JavaScript
 
