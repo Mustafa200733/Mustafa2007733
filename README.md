@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Creative Workshop**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **node.js and mongodb **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustafa200733/](https://github.com/Mustafa200733/)
 
