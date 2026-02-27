@@ -34,13 +34,13 @@ I enjoy turning ideas into interactive digital experiences.
 <br>
 <br>
 🌐 Connect With Me
-
+<br><br>
 <a href="https://instagram.com/mustafa146_501" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>Instagram: mustafa146_501
 
+<br><br><br>
 
-<br>
-<br>
 🛠️ Languages and Tools
+<br><br>
 
  
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4fb0dca9-b5b2-4e59-af25-cfb62ba772cd" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fae0de3c-e73b-4c1a-86ba-dfd5c61c962d" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9ebec8ab-79ca-4423-99a9-38fff24dadd9" /><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a15a67bd-524f-4427-9eb5-dd8524da5bc1" />
